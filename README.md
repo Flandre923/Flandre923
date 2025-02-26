@@ -3,7 +3,7 @@
 
 - 🔭 **我的Github: ✨我会在这里分享学习各种技术，会发布一些个人开发的项目（我的世界模组方面），也会参与一些开源项目。**
   - 🔭 My GitHub: ✨ Here, I will share my learning journey in various technologies, publish some personal development projects (particularly in Minecraft modding), and also participate in open-source projects.
-- 🌱 **正在研究学习：Untity游戏引擎，遥感深度学习图像处理。C++编程相关技术**
+- 🌱 **正在研究学习：Unity游戏引擎，遥感深度学习图像处理。C++编程相关技术**
   - 🌱 Currently learning: Unity Game Engine, Remote Sensing Deep Learning Image Processing, C++ programming related technologies.
 - 👯 **正在聆听意见：关于游戏开发、C++、求职、实习等等……**
   - 👯 Seeking advice on: Game development, C++, Job seeking, Internships, and more...
