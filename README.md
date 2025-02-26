@@ -21,7 +21,7 @@
 
 #### 📫 其他平台账号 My social accounts
 <a href="https://space.bilibili.com/4550069">
-  <img src="https://img.shields.io/badge/Bilibili-Flandre923%E8%A8%B8-lightblue?style=flat-square&logo=Bilibili"/>
+  <img src="https://img.shields.io/badge/Bilibili-Flandre923-lightblue?style=flat-square&logo=Bilibili"/>
 </a>
 
 
