@@ -1,5 +1,4 @@
-### 大家好，👋 我是 ZeromaxHe
-### Hi there, I'm ZeromaXHe
+### Hi =￣ω￣=
 
 - 🔭 **正在努力开发: Git 仓库 - ✨ZeromaX's Playground✨ （ZeromaX 的试验场），在其中做一些独立游戏开发的试验和学习。**
   - I’m currently working on: Git Repository - ZeromaX's Playground, in which i'm learning and testing some indie game-dev things
@@ -20,24 +19,12 @@
 
 
 #### 📫 其他平台账号 My social accounts
-<a href="https://gitee.com/zeromax">
-  <img src="https://img.shields.io/badge/Gitee-zeromax-red?style=flat-square&logo=Gitee"/>
-</a>
-<a href="https://leetcode-cn.com/u/zeromax/">
-  <img src="https://img.shields.io/badge/LeetCodeCN-ZeromaX-orange?style=flat-square&logo=LeetCode"/>
-</a>
-<a href="https://space.bilibili.com/27867310">
+<a href="https://space.bilibili.com/4550069">
   <img src="https://img.shields.io/badge/Bilibili-ZeromaX%E8%A8%B8-lightblue?style=flat-square&logo=Bilibili"/>
 </a>
-<a href="https://www.zhihu.com/people/zeromaxhe">
-  <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-maX%20Zero-blue?style=flat-square&logo=Zhihu"/>
-</a>
-<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxNzE4MDM0Mw==">
-  <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-ZeromaX%E8%A8%B8%E7%9A%84%E6%97%A5%E5%B8%B8-brightgreen?style=flat-square&logo=WeChat"/>
-</a>
-<a href="https://blog.csdn.net/ZeromaXHe">
-  <img src="https://img.shields.io/badge/CSDN-SquareSquareHe-red?style=flat-square"/>
-</a>
+
+
+
 <!--
 **ZeromaXHe/ZeromaXHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
