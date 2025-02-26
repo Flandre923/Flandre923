@@ -1,12 +1,13 @@
-### Hi =￣ω￣=
+### Hi =￣ω￣=, 我是Flandre923
+### Hi =￣ω￣=, I'm Flandre923
 
-- 🔭 **正在努力开发: Git 仓库 - ✨ZeromaX's Playground✨ （ZeromaX 的试验场），在其中做一些独立游戏开发的试验和学习。**
+- 🔭 **我的Github: ✨我会在这里分享学习各种技术，会发布一些个人开发的项目（我的世界模组方面），也会参与一些开源项目。**
   - I’m currently working on: Git Repository - ZeromaX's Playground, in which i'm learning and testing some indie game-dev things
-- 🌱 **正在研究学习：Godot 游戏引擎 + C# / F# 编程语言**
+- 🌱 **正在研究学习：Untity游戏引擎，遥感深度学习图像处理。C++编程相关技术**
   - I’m currently learning: Godot Game Engine + C# / F#
-- 👯 **正在聆听意见：关于游戏开发、.NET 等等……**
+- 👯 **正在聆听意见：关于游戏开发、C#、求职、实习等等……**
   - I’m looking for advice on: game-dev, .NET, etc.
-- 🤔 **正在迷茫：作为一个 5 年经验的 Java 程序员的黯淡未来。（但正在享受：逃出 995 Java 工作，离职在家独立开发和学习的自由时光）**
+- 🤔 **正在迷茫：作为一个研二普通一本学校的学生，自己掌握的技术比较杂，却都不精。目前在正在求职和找实习中。。。。。。。。**
   - I’m perplexed by: a limited development prospects as a Java programmer with 5 years of experience. (But enjoying: the free time of independent development and learning at home after leaving the last no-WLB 995 Java job)
 
 ![ZeromaXHe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeromaXHe&show_icons=true&include_all_commits=true&line_height=21&locale=cn) ![ZeromaXHe's GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ZeromaXHe&layout=compact&locale=cn&hide=HTML,JavaScript)
